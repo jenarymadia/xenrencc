@@ -1,0 +1,299 @@
+/* line 1, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+img.profile-picture {
+  margin-right: 50px;
+}
+
+/* line 5, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+span.full-name {
+  font-size: 26px;
+  color: #404040;
+  text-transform: capitalize;
+}
+
+/* line 9, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+span.full-name i {
+  color: #57b029;
+  font-size: 20px;
+}
+
+/* line 15, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info {
+  max-width: 50%;
+  margin-left: 0;
+  margin-top: 5px;
+}
+
+/* line 19, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info div {
+  padding: 0 !important;
+  margin-bottom: 15px;
+  height: 25px;
+}
+
+/* line 25, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info span.label {
+  font-size: 14px;
+  color: #999999;
+  font-family: 'Montserrat', Helvetica;
+  padding: 0;
+  font-weight: lighter;
+  text-transform: capitalize;
+}
+
+/* line 34, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info .status {
+  color: #57b029;
+  text-transform: uppercase;
+  font-family: 'Montserrat', Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* line 42, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info .action {
+  font-style: italic;
+  color: #666666;
+  text-transform: capitalize;
+}
+
+/* line 48, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.personal-info .action:hover {
+  text-decoration: none;
+}
+
+/* line 54, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+img.qrcode {
+  margin-left: 40px;
+}
+
+/* line 58, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details {
+  display: block;
+  margin-top: 30px;
+}
+
+/* line 61, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.label {
+  padding: 0 !important;
+}
+
+/* line 64, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.label img {
+  margin-right: 5px;
+}
+
+/* line 68, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.label span {
+  color: #666666;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+/* line 76, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details a.action {
+  color: #57b029;
+  font-style: italic;
+}
+
+/* line 81, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.skill {
+  display: inline-block;
+  height: 35px;
+  border-radius: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #dedede;
+  color: #8c8c8c;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+}
+
+/* line 92, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.skill img {
+  margin-right: 5px;
+}
+
+/* line 96, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.skill span {
+  font-size: 14px;
+}
+
+/* line 102, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details .official {
+  background-color: #f9d23f;
+  color: #fff !important;
+  padding-left: 5px !important;
+  padding-right: 15px !important;
+  padding-top: 5px !important;
+  border: 0 !important;
+}
+
+/* line 111, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details .success {
+  background-color: #5dba2c;
+  color: #fff !important;
+  padding-left: 5px !important;
+  padding-right: 15px !important;
+  padding-top: 5px !important;
+  border: 0 !important;
+}
+
+/* line 120, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.language {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+/* line 123, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.language img {
+  margin-right: 10px;
+}
+
+/* line 127, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.language span {
+  font-family: 'Montserrat', Helvetica;
+  font-size: 16px;
+  color: #808080;
+  text-transform: capitalize;
+}
+
+/* line 135, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-details div.language:last-child {
+  margin-right: 0 !important;
+}
+
+/* line 141, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info {
+  position: relative;
+  display: block;
+  margin-top: 30px;
+  border: 1px solid black;
+}
+
+/* line 146, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info div.label {
+  padding: 0 !important;
+}
+
+/* line 149, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info div.label img {
+  margin-right: 5px;
+}
+
+/* line 153, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info div.label span {
+  color: #666666;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+/* line 161, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info a.action {
+  color: #57b029;
+  font-style: italic;
+}
+
+/* line 166, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info p {
+  color: #808080;
+  font-size: 14px;
+  font-family: 'Montserrat', Helvetica;
+  font-weight: lighter;
+}
+
+/* line 173, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info span.rating {
+  display: inline-block;
+  font-size: 70px;
+  font-family: 'Montserrat', Helvetica;
+  color: #57b029;
+}
+
+/* line 181, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info div.star i {
+  color: #f4b00e;
+}
+
+/* line 186, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info span.review-count {
+  text-align: center;
+  display: block;
+  color: #666666;
+  font-size: 12px;
+  font-family: 'Montserrat', Helvetica;
+}
+
+/* line 194, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container {
+  margin-bottom: 0 !important;
+  border: 1px solid black;
+  height: 100%;
+}
+
+/* line 198, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph {
+  height: 100%;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+/* line 203, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .count, div.profile-info .graph-container div.graph .bar, div.profile-info .graph-container div.graph .number, div.profile-info .graph-container div.graph i {
+  display: block;
+  text-align: center;
+}
+
+/* line 207, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .bar {
+  margin: 0 auto 20px auto;
+  width: 25px;
+}
+
+/* line 213, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .half-quarter {
+  height: 20px;
+  background-color: #9dd481;
+}
+
+/* line 218, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .one-quarter {
+  height: 35px;
+  background-color: #84ca61;
+}
+
+/* line 223, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .two-quarter {
+  height: 70px;
+  background-color: #4b9c23;
+}
+
+/* line 228, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .three-quarter {
+  height: 90px;
+  background-color: #6cb747;
+}
+
+/* line 233, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .whole {
+  height: 70px;
+  background-color: #51a329;
+}
+
+/* line 238, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph .count {
+  font-size: 12px;
+  color: #999999;
+  font-family: 'Montserrat', Helvetica;
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+
+/* line 246, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/personal-info.scss */
+div.profile-info .graph-container div.graph i {
+  color: #f4b00e;
+  margin-bottom: 5px;
+}
+
+/*# sourceMappingURL=../custom/personal-info.map */

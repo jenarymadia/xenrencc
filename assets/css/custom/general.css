@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+/* line 1, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+body {
+  background-color: #f7f7f7;
+}
+
+/* line 9, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.margin-30 {
+  height: 30px;
+}
+
+/* line 13, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.margin-10 {
+  height: 10px;
+}
+
+/* line 17, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.no-padding-left {
+  padding-left: 0 !important;
+}
+
+/* line 21, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.no-padding-right {
+  padding-right: 0 !important;
+}
+
+/* line 25, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+/* line 29, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.margin-left-10 {
+  margin-left: 10px !important;
+}
+
+/* line 33, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.div-container {
+  background-color: #fff;
+  border-top: 0 !important;
+  border-left: 1px solid #f0f0f0 !important;
+  border-right: 1px solid #f0f0f0 !important;
+}
+
+/*header*/
+/* line 41, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header {
+  background-color: #fff;
+  min-height: 90px;
+}
+
+/* line 46, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header .wrapper {
+  display: block;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1165px;
+  padding-top: 20px;
+  overflow: hidden;
+}
+
+/* line 55, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header nav {
+  height: 100%;
+  margin-left: 50px;
+  display: inline;
+}
+
+/* line 61, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header nav a {
+  color: #404040;
+  display: inline-block;
+  font-family: 'Raleway Regular', sans-serif;
+  font-size: 16px;
+  margin-right: 70px;
+  text-transform: capitalize;
+}
+
+/* line 70, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header nav a:last-child {
+  margin-right: 0;
+}
+
+/* line 74, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header nav a:hover {
+  text-decoration: none;
+}
+
+/* line 78, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header nav .add {
+  color: #57b029;
+  font-family: 'Raleway SemiBold', sans-serif;
+  font-size: 26px;
+  padding: 0;
+}
+
+/* line 85, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links {
+  height: 70px;
+}
+
+/* line 89, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links li {
+  padding: 0 !important;
+  margin-right: 50px;
+  height: 57px;
+}
+
+/* line 95, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links li:last-child {
+  margin-right: 0;
+}
+
+/* line 99, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+header .fa-bell-o {
+  color: #57b029;
+  font-size: 26px;
+  margin-top: 15px;
+}
+
+/* line 105, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links a {
+  font-family: 'Raleway Medium', sans-serif;
+  color: #57b029;
+  font-size: 16px;
+  text-transform: capitalize;
+  display: inline-block;
+  margin-top: 15px;
+  border-bottom: 3px solid #57b029;
+  padding-bottom: 40px;
+}
+
+/* line 116, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links a:hover {
+  text-decoration: none;
+}
+
+/* line 120, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.right-links img {
+  width: 47px;
+  height: 47px;
+}
+
+/*end header*/
+/* line 127, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.wrapper {
+  display: block;
+  margin: 0 auto;
+  max-width: 1165px;
+  padding-top: 20px;
+  margin-top: 0 !important;
+}
+
+/* line 135, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.main {
+  padding: 30px !important;
+}
+
+/* line 139, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+h1 {
+  font-size: 18px;
+  text-transform: uppercase !important;
+  color: #808080;
+  font-family: 'Raleway Bold', sans-serif;
+}
+
+/*Sidebar nav*/
+/* line 148, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.sidebar nav a {
+  display: block;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  font-family: 'Montserrat', san-serif;
+  font-size: 15px;
+  color: #666;
+}
+
+/* line 156, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.sidebar nav a :last-child {
+  margin-bottom: 0 !important;
+}
+
+/* line 161, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.sidebar nav a:hover {
+  text-decoration: none;
+}
+
+/* line 167, C:/Users/Jenary/Documents/upwork/xenrencc/html/assets/css/sass/general.scss */
+.sidebar nav img {
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=../custom/general.map */
